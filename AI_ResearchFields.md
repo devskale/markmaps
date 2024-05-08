@@ -2,6 +2,7 @@
 title: Research Fields and Applications in AI
 markmap:
   colorFreezeLevel: 2
+maxWidth: 400
 date: 2024-05-08
 ---
 
